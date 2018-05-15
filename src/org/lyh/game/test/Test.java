@@ -1,8 +1,8 @@
-package org.gpf.game.test;
+package org.lyh.game.test;
 
 import javax.sound.sampled.LineUnavailableException;
 
-import org.gpf.game.frame.FiveChessFrame;
+import org.lyh.game.frame.FiveChessFrame;
 
 public class Test {
 	

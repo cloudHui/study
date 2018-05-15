@@ -1,4 +1,4 @@
-package org.gpf.game.frame;
+package org.lyh.game.frame;
 
 import java.awt.Point;
 import java.awt.image.BufferedImage;

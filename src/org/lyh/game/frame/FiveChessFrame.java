@@ -1,4 +1,4 @@
-package org.gpf.game.frame;
+package org.lyh.game.frame;
 
 import java.awt.Color;
 import java.awt.Font;
